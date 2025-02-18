@@ -11,7 +11,6 @@ La ilustración es un elemento clave en la literatura infantil, pero muchos escr
 #### **Desafíos principales:**
 - **Alto costo** de ilustraciones personalizadas.
 - **Tiempo prolongado** para la creación manual de imágenes.
-- **Falta de herramientas accesibles** para generar ilustraciones de calidad.
 
 ### **Propuesta de Solución**
 Este proyecto propone el desarrollo de un sistema de generación de ilustraciones basado en IA que transforma fragmentos de cuentos en imágenes de manera automatizada. Utilizando modelos de texto-imagen como DALL·E o NightCafe, el sistema convertirá descripciones textuales en ilustraciones coherentes y atractivas para niños.
@@ -42,21 +41,10 @@ Este proyecto propone el desarrollo de un sistema de generación de ilustracione
 - **GitHub** (para el control de versiones y documentación del proyecto).
 
 ## **Implementación**
-El código del proyecto se encuentra en el archivo `generador_ilustraciones.ipynb`, donde se detalla:
+El código del proyecto se encuentra en el archivo `Preentrega2+Melo.ipynb`, donde se detalla:
 - **Definición y prueba de prompts**.
 - **Generación de imágenes** a partir de fragmentos de cuentos.
 - **Optimización del proceso** para reducir costos y mejorar resultados.
-
-## **Instalación y Uso**
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/juanmamelo/TrabajoFinal-IA.git
-   ```
-2. Instalar dependencias necesarias:
-   ```bash
-   pip install openai
-   ```
-3. Ejecutar el Jupyter Notebook y probar los prompts.
 
 ## **Créditos**
 Desarrollado por Juan Manuel Melo como parte del curso *IA: Generación de Prompts*.
