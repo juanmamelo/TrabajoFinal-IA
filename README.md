@@ -13,7 +13,7 @@ La ilustración es un elemento clave en la literatura infantil, pero muchos escr
 - **Tiempo prolongado** para la creación manual de imágenes.
 
 ### **Propuesta de Solución**
-Este proyecto propone el desarrollo de un sistema de generación de ilustraciones basado en IA que transforma fragmentos de cuentos en imágenes de manera automatizada. Utilizando modelos de texto-imagen como DALL·E o NightCafe, el sistema convertirá descripciones textuales en ilustraciones coherentes y atractivas para niños.
+Este proyecto propone el desarrollo de un sistema de generación de ilustraciones basado en IA que transforma fragmentos de cuentos en imágenes de manera automatizada. Utilizando modelos de texto-imagen como DALL·E, el sistema convertirá descripciones textuales en ilustraciones coherentes y atractivas para niños.
 
 ### **Justificación de Viabilidad**
 - **Viabilidad técnica:** Se utilizarán herramientas de generación de imágenes por IA accesibles y fáciles de implementar.
@@ -36,16 +36,19 @@ Este proyecto propone el desarrollo de un sistema de generación de ilustracione
 
 ## **Herramientas y Tecnologías**
 - **Python** (para la implementación en Jupyter Notebook).
-- **OpenAI DALL·E API / NightCafe** (para la generación de imágenes).
-- **Técnicas de Fast Prompting** (para mejorar la efectividad de los prompts).
+- **OpenAI GPT-3.5 Turbo** (para generar descripciones detalladas de escenas).
+- **OpenAI DALL·E** (para la generación de ilustraciones a partir de descripciones).
+- **Jupyter Notebook** (para la ejecución y documentación del proyecto).
 - **GitHub** (para el control de versiones y documentación del proyecto).
 
 ## **Implementación**
-El código del proyecto se encuentra en el archivo `Preentrega2+Melo.ipynb`, donde se detalla:
+El código del proyecto se encuentra en el archivo `EntregaFinal+Melo.ipynb`, donde se detalla:
 - **Definición y prueba de prompts**.
 - **Generación de imágenes** a partir de fragmentos de cuentos.
 - **Optimización del proceso** para reducir costos y mejorar resultados.
 
 ## **Créditos**
-Desarrollado por Juan Manuel Melo como parte del curso *IA: Generación de Prompts*.
+Desarrollado por Juan Manuel Melo como parte del curso *IA: Generación de Prompts*. 
+
+
 
